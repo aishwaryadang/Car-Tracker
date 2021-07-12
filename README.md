@@ -1,8 +1,6 @@
 # Car-Tracker
-An application that takes in mock car data and readings from [link](http://mocker.ennate.academy/) and provides REST endpoints for multiple operations.
+An application that takes in car data and readings and provides REST endpoints for multiple operations.
 
-
-Mock Data for Vehicles, including Readings generated at [link](http://mocker.ennate.academy/)
 
 ENDPOINTS:
 Load vehicle details, Passing an Array of Vehicles:
